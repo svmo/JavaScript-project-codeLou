@@ -10,6 +10,7 @@ JavaScript project for Code Louisville 2020
   * MVP
     * user login form - how do I save login info? - don't need to for now
     * validate email and stuff for user login
+    * create a user class
     * search bar for user to search for recipes
     * take search term and send to api
     * pasrse API response
